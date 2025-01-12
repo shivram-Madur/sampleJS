@@ -1,0 +1,28 @@
+{
+  "name": "fis_screening",
+  "version": "1.0.0",
+  "description": "Few Scenarios for UI and API tests",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shivram-Madur/sampleJS.git"
+  },
+  "keywords": [
+    "UI",
+    "and",
+    "API"
+  ],
+  "author": "Shivram Madur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shivram-Madur/sampleJS/issues"
+  },
+  "homepage": "https://github.com/shivram-Madur/sampleJS#readme",
+  "devDependencies": {
+    "cypress": "^11.01.0",
+    "cypress-xpath": "^2.0.1"
+  }
+}
